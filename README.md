@@ -19,7 +19,7 @@ The dashboard revolves around these 4 main topics :
 
 ## :wrench: Tools
 
-(insertion image schéma de principe)
+![Picture1](Pictures/WorkflowDiagram.png)
 
 
 ## :handshake: Team
