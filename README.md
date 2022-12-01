@@ -24,8 +24,8 @@ The dashboard revolves around these 4 main topics :
 
 ## :handshake: Team
 
-[![racettour’s GitHub image](https://crd.so/i/racettour?dark&removeLink)](https://github.com/racettour)
-[![VarlamV’s GitHub image](https://crd.so/i/VarlamV?dark&removeLink)](https://github.com/VarlamV)
-[![boussalemmo’s GitHub image](https://crd.so/i/boussalemmo?dark&removeLink)](https://github.com/boussalemmo)
-[![MarionFourrier’s GitHub image](https://crd.so/i/MarionFourrier?dark&removeLink)](https://github.com/MarionFourrier)
-[![AlPava’s GitHub image](https://crd.so/i/AlPava?dark&removeLink)](https://github.com/AlPava)
+<a href="https://github.com/racettour" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/racettour?dark&removeLink" alt="racettour’s GitHub image" width="450" height="234.5" />
+<a href="https://github.com/AlPava" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/AlPava?dark&removeLink" alt="AlPava’s GitHub image" width="450" height="234.5" />
+<a href="https://github.com/MarionFourrier" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/MarionFourrier?dark&removeLink" alt="MarionFourrier’s GitHub image" width="450" height="234.5" />
+<a href="https://github.com/VarlamV" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/VarlamV?dark&removeLink" alt="VarlamV’s GitHub image" width="450" height="234.5" />
+<a href="https://github.com/boussalemmo" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/boussalemmo?dark&removeLink" alt="boussalemmo’s GitHub image" width="450" height="234.5" />
