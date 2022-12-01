@@ -29,3 +29,8 @@ The dashboard revolves around these 4 main topics :
 <a href="https://github.com/MarionFourrier" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/MarionFourrier?dark&removeLink" alt="MarionFourrier’s GitHub image" width="400" height="208.5" />
 <a href="https://github.com/VarlamV" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/VarlamV?dark&removeLink" alt="VarlamV’s GitHub image" width="400" height="208.5" />
 <a href="https://github.com/boussalemmo" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/boussalemmo?dark&removeLink" alt="boussalemmo’s GitHub image" width="400" height="208.5" />
+
+
+## :camera: Galery
+
+![Picture2](Pictures/Dashboard_head_page.png)
